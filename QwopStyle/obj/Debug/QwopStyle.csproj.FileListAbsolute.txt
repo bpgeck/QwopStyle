@@ -1,0 +1,7 @@
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\bin\Debug\QwopStyle.exe.config
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\bin\Debug\QwopStyle.exe
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\bin\Debug\QwopStyle.pdb
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\bin\Debug\tessnet2_32.dll
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\obj\Debug\QwopStyle.exe
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\obj\Debug\QwopStyle.pdb
+C:\Users\Brendan\Documents\QwopStyle\QwopStyle\obj\Debug\QwopStyle.csprojResolveAssemblyReference.cache
