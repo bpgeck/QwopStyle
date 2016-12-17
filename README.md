@@ -1,7 +1,7 @@
 # QwopStyle
 ### Introduction
 QWOP is a notoriously difficult flash game that requires the player press Q, W, O, and P to control a humanoid ragdoll's thighs and calves in an attempt to make the ragdoll run 100 meters. The original game can be found here: https://www.foddy.net/Athletics.html.
-Continuing the research started by Steven Ray, Vahl Scott Gordon, Laurent Vaucher, http://research.google.com/pubs/pub42902.html, I attempt to train a computer to play the flash game, QWOP, in an optimal fashion using a cellular genetic algorithm.
+Continuing the research started by Steven Ray, Vahl Scott Gordon, and Laurent Vaucher, http://research.google.com/pubs/pub42902.html, I attempt to train a computer to play the flash game, QWOP, in an optimal fashion using a cellular genetic algorithm.
 Genetic algorithms are essentially optimization algorithms where every member of a population of strings is given a "fitness" score and is then mated with another string from this scored population to generate two new strings that will be members of the next generation's population.
 This algorithm of generating a population, scoring the population, and mating viable candidates continues for many generations until, ultimately, the optimal solution is reached.
 
